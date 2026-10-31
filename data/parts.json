@@ -1,0 +1,15 @@
+{
+ "parts": {
+  "20-acts-01.json": {
+   "acts": [
+    "tana-river-county-fire-and-rescue-services-act-2024",
+    "tana-river-county-health-improvement-financing-act-2025",
+    "tana-river-county-sustainable-charcoal-production-act-2025",
+    "tana-river-county-ward-bursary-fund-administration-amendment-act-2025",
+    "tana-river-county-water-and-sewerage-services-act-2024"
+   ],
+   "sha256": "ee92618ac67bdaf10fa4e95638d960f77c5b89eb2a8279ef33729c83b918ae68"
+  }
+ },
+ "schema": 1
+}
