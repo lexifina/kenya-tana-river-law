@@ -1,0 +1,18 @@
+Law texts
+
+The texts in this repository are Acts of the County Assembly of Tana River (Kenya) as published, in English, in the Kenya
+Gazette Supplement by the Government Printer, Nairobi, and posted on the County Assembly's website
+(https://tanariverassembly.go.ke).
+
+- Copyright: the Copyright Act, 2001 (Cap. 130, Laws of Kenya), section 2, defines "literary work" and ends: "but
+  does not include a written law or a judicial decision". (As printed in the revised editions of Cap. 130; see WIPO
+  Lex, https://www.wipo.int/wipolex/en/legislation/details/2693.) County Acts are legislation of a county assembly
+  under Articles 185 and 260 of the Constitution of Kenya.
+- The County Assembly's website carries a copyright footer and no terms that restrict reuse of the Acts it posts.
+- The texts are reproduced without change to their wording; only the arrangement (one file per section, one
+  paragraph per line) is Lexifina's. Neither the County Assembly nor the Government Printer endorses this repository.
+
+Attribution: Source: County Assembly of Tana River, https://tanariverassembly.go.ke; Kenya Gazette Supplement, Government Printer, Nairobi.
+
+Everything else (the git history's structure, the tools and the documentation): CC0 1.0 Universal,
+https://creativecommons.org/publicdomain/zero/1.0/legalcode

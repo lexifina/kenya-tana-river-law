@@ -1,0 +1,75 @@
+{
+ "country": "KE-40",
+ "acts": [
+  {
+   "slug": "tana-river-county-health-improvement-financing-act-2025",
+   "short": "The Tana River County Health Improvement Financing Act, 2025",
+   "title": "The Tana River County Health Improvement Financing Act, 2025",
+   "url": "https://tanariverassembly.go.ke/house-business/acts/2025-trc-county-health-improvement-financing-act-2025/",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 31,
+     "source_url": "https://tanariverassembly.go.ke/documents/2025-trc-county-health-improvement-financing-act-2025/download/",
+     "sha256": "99fd5392d34b7fa41e20399f12146c943904973faf804f98f0c660a2d8c227f9"
+    }
+   ]
+  },
+  {
+   "slug": "tana-river-county-water-and-sewerage-services-act-2024",
+   "short": "The Tana River County Water and Sewerage Services Act, 2024",
+   "title": "The Tana River County Water and Sewerage Services Act, 2024",
+   "url": "https://tanariverassembly.go.ke/house-business/acts/2025-trc-water-and-sewerage-services-act-2025/",
+   "versions": [
+    {
+     "from": "2025-09-12",
+     "units": 105,
+     "source_url": "https://tanariverassembly.go.ke/documents/2025-trc-water-and-sewerage-services-act-2025/download/",
+     "sha256": "9111c7d3de97b8cb41158b19c3de3c9d76e1ff0eb99ac1ae0d90eca0488cd7db"
+    }
+   ]
+  },
+  {
+   "slug": "tana-river-county-fire-and-rescue-services-act-2024",
+   "short": "The Tana River County Fire and Rescue Services Act, 2024",
+   "title": "The Tana River County Fire and Rescue Services Act, 2024",
+   "url": "https://tanariverassembly.go.ke/house-business/acts/2025-trc-fire-and-rescue-act-2025-2/",
+   "versions": [
+    {
+     "from": "2025-11-24",
+     "units": 61,
+     "source_url": "https://tanariverassembly.go.ke/documents/2025-trc-fire-and-rescue-act-2025-2/download/",
+     "sha256": "acf5b922e427cb906f813d760efde360eb0919173eb1befeb3c80d2bfaa813b8"
+    }
+   ]
+  },
+  {
+   "slug": "tana-river-county-sustainable-charcoal-production-act-2025",
+   "short": "The Tana River County Sustainable Charcoal Production Act, 2025",
+   "title": "The Tana River County Sustainable Charcoal Production Act, 2025",
+   "url": "https://tanariverassembly.go.ke/house-business/acts/2025-trc-sustainable-charcoal-production-act-2025/",
+   "versions": [
+    {
+     "from": "2025-11-24",
+     "units": 44,
+     "source_url": "https://tanariverassembly.go.ke/documents/2025-trc-sustainable-charcoal-production-act-2025/download/",
+     "sha256": "d4350aff3062ec743bc2a26f54371652f47bed98cb3177f11cfe6c932b1079b2"
+    }
+   ]
+  },
+  {
+   "slug": "tana-river-county-ward-bursary-fund-administration-amendment-act-2025",
+   "short": "The Tana River County Ward Bursary Fund Administration (Amendment) Act, 2025",
+   "title": "The Tana River County Ward Bursary Fund Administration (Amendment) Act, 2025",
+   "url": "https://tanariverassembly.go.ke/house-business/acts/2025-trc-ward-bursary-fund-administration-amendment-act-2025/",
+   "versions": [
+    {
+     "from": "2026-03-05",
+     "units": 35,
+     "source_url": "https://tanariverassembly.go.ke/documents/2025-trc-ward-bursary-fund-administration-amendment-act-2025/download/",
+     "sha256": "3712b64bba9f5bd533649468872ac9903e1773346a6b5c0edeffe2accb66e0e4"
+    }
+   ]
+  }
+ ]
+}
