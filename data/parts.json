@@ -9,6 +9,12 @@
     "tana-river-county-water-and-sewerage-services-act-2024"
    ],
    "sha256": "ee92618ac67bdaf10fa4e95638d960f77c5b89eb2a8279ef33729c83b918ae68"
+  },
+  "22-inspectorate-table.json": {
+   "acts": [
+    "tana-river-county-inspectorate-service-act-2025"
+   ],
+   "sha256": "569975cf06a8d22428cca3383eceb4390220c1a363a203d3a0a9230f2bfed367"
   }
  },
  "schema": 1

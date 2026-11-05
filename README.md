@@ -10,7 +10,7 @@ It follows the shared design of [lexifina/global-law](https://github.com/lexifin
 
 | Folder | What |
 | --- | --- |
-| one folder per Act (by its short title) | `000-title.md` (the Act's title, long title and enacting words), one file per section, one per Schedule |
+| one folder per Act (by its short title) | Usually `000-title.md` (the Act's title, long title and enacting words), one file per section, one per Schedule. The Inspectorate Service Act, 2025 is held as one complete `000-full-text.md` file. |
 
 The Acts come in parts of about fifty, in date order. An Act is left out until it can be read reliably: scans with no text layer (no OCR is used), documents that are not Gazette Supplements (drafts, Bills, Word copies), PDFs with tables or forms the independent check below does not find in the same order, and PDFs whose sections do not match their own arrangement of sections. Subsidiary legislation is not included.
 
@@ -26,7 +26,9 @@ Each Act is dated by the "Date of Commencement" its Supplement prints, at noon i
 
 Lexifina reads the sources listed here and records each act's dated versions, and the laws that made each change, in one corpus file. `tools/build.py` writes this repository from that file, and the same corpus always gives the same commit hashes; `REPRODUCE.md` gives the details and the checks. A model (Claude) wrote Lexifina's code; it wrote no legal text, and no model runs when the history is built.
 
-The text layer of each PDF (no OCR) becomes one file per section. The Supplement cover, the title block (number, Dates of Assent and Commencement), the arrangement of sections, running heads and page numbers are left out. Part headings and section headings (bold rows or margin notes) stand above the section they head.
+For section-split Acts, the text layer of each PDF (no OCR) becomes one file per section. The Supplement cover, the title block (number, Dates of Assent and Commencement), the arrangement of sections, running heads and page numbers are left out. Part headings and section headings (bold rows or margin notes) stand above the section they head.
+
+The Inspectorate Service Act, 2025 keeps the entire Gazette Supplement text layer in one file, including the cover, arrangement and running heads. Its official PDF states commencement on 31 July 2025. The assembly listing labels the PDF as a Fire and Rescue Act, while the PDF itself names the Inspectorate Service Act. The First Schedule's RANKING grid is represented as a table in that file, retaining its four division columns and the staffing notes spanning multiple rank rows.
 
 ## How it is checked
 

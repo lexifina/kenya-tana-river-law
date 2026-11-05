@@ -70,6 +70,20 @@
      "sha256": "3712b64bba9f5bd533649468872ac9903e1773346a6b5c0edeffe2accb66e0e4"
     }
    ]
+  },
+  {
+   "slug": "tana-river-county-inspectorate-service-act-2025",
+   "short": "The Tana River County Inspectorate Service Act, 2025",
+   "title": "The Tana River County Inspectorate Service Act, 2025",
+   "url": "https://tanariverassembly.go.ke/house-business/acts/2025-trc-fire-and-rescue-act-2025/",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "https://tanariverassembly.go.ke/documents/2025-trc-fire-and-rescue-act-2025/download/",
+     "sha256": "c95094fbd9fa82cd2e5c2be0ebd498a28a286d60ca150ef2841a7dc1c31a8c8d"
+    }
+   ]
   }
  ]
 }
