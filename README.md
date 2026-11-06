@@ -1,5 +1,7 @@
 # Tana River County (Kenya): law history in git
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the law of Tana River County, Kenya, which global-law reads at `kenya/tana-river/acts/`.
+
 The Acts of the County Assembly of Tana River, Kenya, as a git history: one folder per Act, one file per section, one paragraph per line, so `git blame`, `git log` and `git diff` work line by line. The text is the English text of each Act as published in the Kenya Gazette Supplement by the Government Printer and posted by the County Assembly of Tana River on its website.
 
 It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law).
